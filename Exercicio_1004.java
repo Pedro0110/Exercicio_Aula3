@@ -13,7 +13,7 @@ public class MyClass {
     System.out.println("Insira o segundo número");
     y = sc.nextInt();        
 
-    int PROD = x + y;
+    int PROD = x * y;
 
       System.out.println("PROD = " + PROD);
     }
